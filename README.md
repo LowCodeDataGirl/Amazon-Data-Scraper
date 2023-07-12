@@ -43,3 +43,22 @@ This repository contains two Python scripts (`app.py` and `app(2).py`) that perf
 - After running `app(2).py`, the scraped data from the HTML files in the `Pages Snapshots` directory will be saved as `all_data.json`.
 
 - The `data.json` and `all_data.json` files can be further processed or used as desired.
+
+## FAQ
+### Can I follow you on your social media platforms ? 
+
+Yes you can !
+ 
+ You'll find me 
+- Posting memes or talking about data on [Twitter](https://twitter.com/LowCodeDataGirl/status/1539491369491759107?s=20&t=_AIGHnY6mDlG9uaiR8aa0g)
+- Writing articles about complex data concepts and making them digestible on [Medium](lowcodedatagirl.medium.com)   
+- Posting data vizualizations inspiration and data infographics on [Instagram](https://www.instagram.com/lowcodedatagirl/)
+
+## License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+
+
+## Show Your Support
+Please ⭐️ this repository if this project helped you or [buy me coffee]( https://www.buymeacoffee.com/lowcodedatagirl)!
