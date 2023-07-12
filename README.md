@@ -1,6 +1,6 @@
 # Amazon-Data-Scraper
 
-This repository contains two Python scripts (`app.py` and `app(2).py`) that perform web scraping on HTML files and convert the extracted data to JSON and CSV formats. These scripts utilize the `json`, `os`, and `BeautifulSoup` libraries.
+This repository contains two Python scripts that perform web scraping on HTML files and convert the extracted data to JSON and CSV formats.  
 
 ## Files
 
